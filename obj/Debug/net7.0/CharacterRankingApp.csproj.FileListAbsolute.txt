@@ -1,0 +1,15 @@
+C:\Projetos\Rankingtext\CharacterRankingApp\bin\Debug\net7.0\CharacterRankingApp.exe
+C:\Projetos\Rankingtext\CharacterRankingApp\bin\Debug\net7.0\CharacterRankingApp.deps.json
+C:\Projetos\Rankingtext\CharacterRankingApp\bin\Debug\net7.0\CharacterRankingApp.runtimeconfig.json
+C:\Projetos\Rankingtext\CharacterRankingApp\bin\Debug\net7.0\CharacterRankingApp.dll
+C:\Projetos\Rankingtext\CharacterRankingApp\bin\Debug\net7.0\CharacterRankingApp.pdb
+C:\Projetos\Rankingtext\CharacterRankingApp\obj\Debug\net7.0\CharacterRankingApp.csproj.AssemblyReference.cache
+C:\Projetos\Rankingtext\CharacterRankingApp\obj\Debug\net7.0\CharacterRankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Rankingtext\CharacterRankingApp\obj\Debug\net7.0\CharacterRankingApp.AssemblyInfoInputs.cache
+C:\Projetos\Rankingtext\CharacterRankingApp\obj\Debug\net7.0\CharacterRankingApp.AssemblyInfo.cs
+C:\Projetos\Rankingtext\CharacterRankingApp\obj\Debug\net7.0\CharacterRankingApp.csproj.CoreCompileInputs.cache
+C:\Projetos\Rankingtext\CharacterRankingApp\obj\Debug\net7.0\CharacterRankingApp.dll
+C:\Projetos\Rankingtext\CharacterRankingApp\obj\Debug\net7.0\refint\CharacterRankingApp.dll
+C:\Projetos\Rankingtext\CharacterRankingApp\obj\Debug\net7.0\CharacterRankingApp.pdb
+C:\Projetos\Rankingtext\CharacterRankingApp\obj\Debug\net7.0\CharacterRankingApp.genruntimeconfig.cache
+C:\Projetos\Rankingtext\CharacterRankingApp\obj\Debug\net7.0\ref\CharacterRankingApp.dll
